@@ -21,7 +21,7 @@ eleventyExcludeFromCollections: true
 
 # Important to remember
 - Paying attention in class, reviewing the concepts, and doing your homework will benefit your learning. Your brain processes and retains more information if you work on the subject daily instead of learning a big chunk of concepts in one day.
-
+  
 - Have fun in a computer science class. You will be able to learn another kind of logic than the one you are learning in mathematics, physics, or science, and you will be able to test and see your work on the computer.
 
 # Grading
@@ -44,6 +44,10 @@ eleventyExcludeFromCollections: true
 - I will evaluate your participation and engagement in class.
 - Classwork (individual, group).
 - Attendance and punctuality.
+
+# Course Outline
+
+Please review our [syllabus](https://github.com/novillo-cs/cs_foundations_material/blob/main/cs_foundations_syllabus.pdf).
 
 # Contact Info
 
