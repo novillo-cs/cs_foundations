@@ -11,12 +11,15 @@ You may use the lab machines or your own computers during class.
 ### Student Accounts
 
 Each of you has an account on our main server.
+
 You can use the lab computers to access your account.
+
 The machines in the lab use the Linux (Mint) operating system.
 
 ### Log into the computer
 
  username: your stuy.edu username, without the @stuy.edu
+ 
  password: OSIS + homeroom (eg. 1234567893qq)
 
  ### Change your password to a strong password.
