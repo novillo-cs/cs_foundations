@@ -2,11 +2,9 @@
 title: Lesson 01 - Introduction
 ---
 
-# Introduction
-
 Welcome to CS Foundations!
 
-Please carefully read Classroom and Lab Rules, and our grading policy.
+Please carefully read Classroom and Lab Rules, and our grading policy [here](https://novillo-cs.github.io/cs_foundations/info/).
 
 You may use the lab machines or your own computers during class.
 
