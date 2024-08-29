@@ -23,38 +23,24 @@ The machines in the lab use the Linux (Mint) operating system.
 
  ### Change your password to a strong password.
 
- ```
-    i. Start a terminal window : control+alt+t
-    
-   ii. Establish a connection to the the central computer:
-
-         
-
-          $ ssh 149.89.17.91      enter
-	  Answer yes to the "Are your...?" question.
-	  The cursor will hide your typing while you enter...
-
-              password: yourOSIS    enter
-	      
-
-  iii. Verify the connection: platekr@cs-nfs:~$
-
-  iv. Request a new password:
-
-          $ passwd enter
-	  Changing password for _____.
-	  (current) UNIX password: yourOSIS  enter
-	  Enter a new UNIX password: yourNewPassword  enter
-	  Retype new UNIX password:  yourNewPassword  enter
-	  password: password updated successfully
-
-  v. Log out $ exit
-
-  vi. Return to your computer: 
-
-  vii. Log out using the gear icon.
-
-  viii.  Log in with your new password.
-
+ Follow these steps:
+ 
+1. Start a terminal window: click on terminal icon or press ```control + alt + t```
+2. Establish a connection to the the central computer:
 ```
+	$ ssh 149.89.17.91      <enter>
+	Answer yes to the "Are your...?" question.
+	The cursor will hide your typing while you enter...
+	password: yourOSIS    <enter>
+```      
+3. Request a new password:
+```
+	$ passwd enter
+	Changing password for _____.
+	(current) UNIX password: yourOSIS  <enter>
+	Enter a new UNIX password: yourNewPassword  <enter>
+	Retype new UNIX password:  yourNewPassword  <enter>
+	password: password updated successfully
+```
+4. Log out ```$ exit```
  
