@@ -1,5 +1,5 @@
 ---
-title: 01 HW - Forms
+title: HW 01 - Forms
 due_date: 2024-09-06
 ---
 
