@@ -9,6 +9,8 @@ eleventyExcludeFromCollections: true
 
 - Students must respect the teacher and classmates at all times.
 
+- Students must speak respectfully and avoid using inappropriate, offensive, or hurtful language. This ensures a positive, inclusive, and safe learning environment for everyone.
+
 - Labs: No food or drinks are allowed in the labs. Labs should be kept clean.
 
 - Students must be on time for class. Please improve your routine if you are often late, especially for the first period. You may wake up 10 minutes earlier or more to take the train/bus, which will help you to be on time for school. If you are late, you will disrupt the class and miss important parts of the lessons, which could affect your learning and your classwork grade.
@@ -44,7 +46,7 @@ eleventyExcludeFromCollections: true
 - Attendance and punctuality.
 - Homework will be posted on our class website.
 - Homework should be completed individually unless the teacher specifies that group work is allowed.
-- I will randomly check homework by looking at your work on your GitHub repositories or choosing students to demo their homework in front of the class.
+- The teacher will randomly check homework by looking at students' work on GitHub repositories or choosing students to demo their homework in front of the class.
 - The history of Git commits will be used to assess and grade classwork and homework. To ensure fair and accurate grading, please adhere to the following guidelines:
   - Commit Regularly: Make consistent commits that reflect meaningful progress.
   - Descriptive Commit Messages: Use clear and descriptive commit messages to explain the changes made in each commit.
