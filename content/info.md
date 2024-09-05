@@ -63,3 +63,5 @@ Please review our [syllabus](https://github.com/novillo-cs/cs_foundations_materi
 **Teacher:** Ms. Novillo
 
 **Email:** jnovillo@stuy.edu
+
+**Office Hours:** Periods 4, 5, 8, 9 - Room: 301
