@@ -15,6 +15,10 @@ eleventyExcludeFromCollections: true
 
 - Students must pay attention when the teacher gives a lesson. Please do not use the computers during a lesson unless the teacher asks you to do it. Please do not work on assignments for other subjects during my class. Avoid distractions (cell phones). Students who do not comply with this rule will lose classwork points.
 
+- Cell phones, earphones, and ear pods are not allowed during class time. These devices must be kept in your backpack. If you are caught using any of these devices, I will collect them and return them at the end of class. If this behavior is repeated, further consequences will be applied.
+
+- To maintain academic integrity, the teacher will collect the students' cell phones before any exam or quiz starts. Phones will be returned to students when the exam or quiz has concluded. 
+  
 - Bathroom: Please do your best to use the bathroom between periods. Students cannot go to the bathroom during an exam or quiz.
 
 - Absence: Students are expected to check the missed lesson/work with their classmates when absent. Generally, I will post slides and homework on our website.
@@ -27,23 +31,26 @@ eleventyExcludeFromCollections: true
 # Grading
 | Criteria                   | Weight |
 | -------------------------- | ------ |
-| Formative Assessments      | 70%    |
-| Homework & Preparation     | 15%    |
-| Class Participation & Work | 15%    |
+| Summative Assessments      | 70%    |
+| Homework                   | 15%    |
+| Classwork                  | 15%    |
 
-**Formative Assessments:**
+**Summative Assessments:**
 - Exams/Quizzes.
 - Labs.
 
-**Homework & Preparation:**
-- Homework will be posted on our class website.
-- Homework should be completed individually unless the teacher specifies that group work is allowed.
-- I will check homework randomly and choose students to demo their homework in front of the class.
-
-**Class Participation & Work:**
-- I will evaluate your participation and engagement in class.
+**Classwork & Homework:**
 - Classwork (individual, group).
 - Attendance and punctuality.
+- Homework will be posted on our class website.
+- Homework should be completed individually unless the teacher specifies that group work is allowed.
+- I will randomly check homework by looking at your work on your GitHub repositories or choosing students to demo their homework in front of the class.
+- The history of Git commits will be used to assess and grade classwork and homework. To ensure fair and accurate grading, please adhere to the following guidelines:
+  - Commit Regularly: Make consistent commits that reflect meaningful progress.
+  - Descriptive Commit Messages: Use clear and descriptive commit messages to explain the changes made in each commit.
+  - No Last-Minute Commits: Avoid pushing all changes right before deadlines. Regular commits will demonstrate steady progress and allow for better feedback.
+
+
 
 # Course Outline
 
