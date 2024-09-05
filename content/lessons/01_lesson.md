@@ -32,13 +32,13 @@ The machines in the lab use the Linux (Mint) operating system.
 	$ ssh 149.89.17.91      <enter>
 	Answer yes to the "Are your...?" question.
 	The cursor will hide your typing while you enter...
-	password: yourOSIS    <enter>
+	password: OSIS + homeroom    <enter>
 ```      
 3. Request a new password:
 ```
 	$ passwd enter
 	Changing password for _____.
-	(current) UNIX password: yourOSIS  <enter>
+	(current) UNIX password: OSIS + homeroom  <enter>
 	Enter a new UNIX password: yourNewPassword  <enter>
 	Retype new UNIX password:  yourNewPassword  <enter>
 	password: password updated successfully
