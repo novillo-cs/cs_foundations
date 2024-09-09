@@ -18,12 +18,6 @@ It will be used for exit tickets only. All other assignments will be submitted o
 It is an open-source version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 ## GitHub
-It is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests. 
-
-# Git
-It is an open-source version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development.
-
-## GitHub
 It is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 
 
 ## Repositories (Repos)
@@ -61,7 +55,9 @@ You may take a look at the git reference [sheet](https://education.github.com/gi
 
 ## Connect to GitHub with SSH
 
-Follow these steps to create an ssh key, connect to GitHub using SSH, and clone your repository.
+If you do not have a GitHub account, create one please [GitHub](https://github.com/) (you may use any email to create your GitHub account).
+
+Then, follow these steps to create an ssh key, connect to GitHub using SSH, and clone your repository.
 
 1. Create your ssh key: Open your terminal and type
 
@@ -86,11 +82,11 @@ Follow these steps to create an ssh key, connect to GitHub using SSH, and clone 
 
 4. Let's clone your repository on your local computer:
 
-    Go to your assignments repository that you accepted for this class in GitHub (assignments repo must be accepted only once, check GC for to have the link). You will see a green button, "Code". You must click on that button and select SSH to have the appropriate link that will allow you to clone your repository and copy the link you see there.
+    Go to your assignments repository that you accepted for this class in GitHub (assignments repo must be accepted only once, check GC for to have the link). You will see a green button, "Code". You must click on that button and select SSH to have the appropriate link that will allow you to clone your repository and copy the link you see there./
 
-5. Create a folder `cs_foundations` anywhere in your computer.
+5. Create a folder `CS_Foundations` anywhere in your computer.
    
-6. On your terminal, go inside the folder `cs_foundations` to clone your repository and type:
+6. On your terminal, go inside the folder `CS_Foundations` to clone your repository and type:
     ```
     git clone PASTE_THE_LINK_YOU_COPIED_FROM_GITHUB_(git@...)
     ```
