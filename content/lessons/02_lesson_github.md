@@ -4,7 +4,7 @@ title: Lesson 02 - GitHub
 
 ## GitHub 
 
-Read the [Git and GitHub documentation](https://novillo-cs.github.io/apcsa/tools/) provided in the Tools section.
+Read the [Git and GitHub documentation](https://novillo-cs.github.io/cs_foundations/tools/) provided in the Tools section.
 
 ## Remember the following GitHub actions
 
