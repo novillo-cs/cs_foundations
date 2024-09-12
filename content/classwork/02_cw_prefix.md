@@ -1,6 +1,9 @@
-# Classwork 01: Prefix Expressions
+---
+title: CW 02 - Evaluate Prefix Expressions
+due_date: 2024-09-13
+---
 
-**Directions:** On your notebook, evaluate the following expressions
+**Directions:** On your notebook, evaluate the following expressions:
 
 | Expression | Value |
 | ---------- | ----- |
