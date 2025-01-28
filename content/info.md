@@ -46,12 +46,7 @@ eleventyExcludeFromCollections: true
 - Attendance and punctuality.
 - Homework will be posted on our class website.
 - Homework should be completed individually unless the teacher specifies that group work is allowed.
-- The teacher will randomly check homework by looking at students' work on GitHub repositories or choosing students to demo their homework in front of the class.
-- The history of Git commits will be used to assess and grade classwork and homework. To ensure fair and accurate grading, please adhere to the following guidelines:
-  - Commit Regularly: Make consistent commits that reflect meaningful progress.
-  - Descriptive Commit Messages: Use clear and descriptive commit messages to explain the changes made in each commit.
-  - No Last-Minute Commits: Avoid pushing all changes right before deadlines. Regular commits will demonstrate steady progress and allow for better feedback.
-
+- The teacher will randomly check homework by looking at students' work on GoogleClassroom or choosing students to demo their homework in front of the class.
 
 
 # Course Outline
